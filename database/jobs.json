@@ -1316,5 +1316,16 @@
     "status": "success",
     "created_at": "2026-08-25T14:30:56.974Z",
     "completed_at": "2026-08-25T14:39:36.853Z"
+  },
+  "mt8tkhpf2used": {
+    "job_id": "mt8tkhpf2used",
+    "release_id": 376512719,
+    "release_tag": "build-mt8tkhpf2used",
+    "run_id": 32865994269,
+    "user_id": 1974927893,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-25T15:28:23.524Z"
   }
 }
